@@ -1,0 +1,46 @@
+{
+  "0": {
+    "Adequacy (Meaning Preservation)": {
+      "y1": 5,
+      "y2": 5
+    },
+    "Fluency": {
+      "y1": 5,
+      "y2": 5
+    },
+    "Grammatical Correctness": {
+      "y1": 5,
+      "y2": 5
+    },
+    "Style Consistency": {
+      "y1": 5,
+      "y2": 5
+    },
+    "Conciseness": {
+      "y1": 6,
+      "y2": 5
+    }
+  },
+  "1": {
+    "Adequacy (Meaning Preservation)": {
+      "y1": 5,
+      "y2": 5
+    },
+    "Fluency": {
+      "y1": 5,
+      "y2": 5
+    },
+    "Grammatical Correctness": {
+      "y1": 5,
+      "y2": 5
+    },
+    "Style Consistency": {
+      "y1": 5,
+      "y2": 5
+    },
+    "Conciseness": {
+      "y1": 8,
+      "y2": 5
+    }
+  }
+}

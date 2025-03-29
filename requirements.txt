@@ -1,0 +1,4 @@
+# requirements.txt
+streamlit
+google-cloud-firestore
+# Add any other libraries you use

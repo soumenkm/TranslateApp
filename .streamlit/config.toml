@@ -1,0 +1,9 @@
+# .streamlit/config.toml
+
+[theme]
+base = "light"
+primaryColor = "#ff69b4"             # A vivid pink for primary accents
+backgroundColor = "#fff0f6"          # A soft, light pink background
+secondaryBackgroundColor = "#ffe6f0" # A subtle pink for secondary areas
+textColor = "#000000"
+font = "sans serif"
